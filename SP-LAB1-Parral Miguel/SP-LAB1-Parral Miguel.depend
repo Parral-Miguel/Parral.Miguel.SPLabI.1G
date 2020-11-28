@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1606523960 source:c:\users\parra\desktop\sp-lab1-parral miguel\entidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidades.h"
+	"LinkedList.h"
+
+1606522868 c:\users\parra\desktop\sp-lab1-parral miguel\entidades.h
+	"LinkedList.h"
+
+1606521016 c:\users\parra\desktop\sp-lab1-parral miguel\linkedlist.h
+
+1606523309 source:c:\users\parra\desktop\sp-lab1-parral miguel\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"informes.h"
+	"LinkedList.h"
+
+1606523159 c:\users\parra\desktop\sp-lab1-parral miguel\informes.h
+	"LinkedList.h"
+	"entidades.h"
+
+1606521716 source:c:\users\parra\desktop\sp-lab1-parral miguel\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606523159 source:c:\users\parra\desktop\sp-lab1-parral miguel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"parser.h"
+	"entidades.h"
+	"informes.h"
+
+1606515862 c:\users\parra\desktop\sp-lab1-parral miguel\parser.h
+
+1606517848 source:c:\users\parra\desktop\sp-lab1-parral miguel\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"entidades.h"
+
